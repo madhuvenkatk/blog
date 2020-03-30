@@ -2,6 +2,9 @@
 layout: category
 title: Reading List
 ---
+
+This post is list of articles, blogs and other resources that I commonly reference.
+
 <h2>Books</h2>
 
 <ul>
