@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: LinkedIn
 ---
 
 Another sample category page.

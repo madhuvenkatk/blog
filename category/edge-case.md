@@ -1,6 +1,6 @@
 ---
 layout: category
-title: My Reading List
+title: Reading List
 ---
 
 Sample category page. You need to create a page for each category.
