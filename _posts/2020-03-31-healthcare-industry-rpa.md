@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top tech stories : March 31, 2020"
+title: "Top stories : March 31, 2020"
 excerpt_separator:  <!--more-->
 ---
 <ul>
@@ -8,4 +8,5 @@ excerpt_separator:  <!--more-->
   <li><a href="https://hackernoon.com/how-the-healthcare-industry-can-best-utilise-robotic-process-automation-rba-htft3ybu?source=rss">How The Healthcare Industry Can Best Utilise Robotic Process Automation (RPA)</a></li>
   <li><a href="https://hackernoon.com/top-10-software-engineering-metrics-to-track-if-you-lead-an-agile-team-3s2b93w9e">Top 10 Software Engineering Metrics To Track</a></li>
   <li><a href="https://www.technologyreview.com/s/615413/record-jobless-numbers-hint-at-the-coronavirus-economic-pain/">The official jobless numbers are horrifying. The real situation is even worse.</a></li>  
+<li><a href="https://jamesclear.com/successful-people-start-before-they-feel-ready">TSuccessful People Start Before They Feel Ready</a></li>  
 </ul>
