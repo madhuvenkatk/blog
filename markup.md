@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Twitter
 ---
 
 Another sample category page.
