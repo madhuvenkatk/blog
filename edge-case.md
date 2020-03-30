@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Github.io
+url :  https://madhuvenkatk.github.io
 ---
 
 Sample category page. You need to create a page for each category.
