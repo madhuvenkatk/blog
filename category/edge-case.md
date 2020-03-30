@@ -17,7 +17,7 @@ This post is list of articles, blogs and other resources that I commonly referen
   <li><a href="http://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959">The Mythical Man-Month</a> - Project management</li>
   <li><a href="http://www.amazon.com/gp/product/0130676349">Agile Software Development with Scrum</a> - Agile</li>
   <li><a href="https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749">The Coaching Habit</a> - Management</li>
-  <li><a href="https://noidea.dog/glue">Being Glue</a></li>
+  <li><a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884">High Output Management</a>- Leadership</li>
 </ul>
 
 <h2>Articles</h2>
