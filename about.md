@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 ---
-This blog focuses more Software engineering best practices and tools. This blog is a free blog i.e.it doesn’t make forecasts nor does it give any tips.
+This blog focuses more software engineering best practices and tools. This blog is a free blog i.e.it doesn’t make forecasts nor does it give any tips.
 
 All about my observations and understanding on technology and business in this beautiful planet
 
