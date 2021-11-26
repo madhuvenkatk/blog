@@ -1,6 +1,11 @@
-<div id="sidebar">
+<div id="sidebar">  
+
   <header>
-    <image id="profileImage" src="/blog/images/profile1.jpg" />
+    <style>
+      img {
+        border-radius: 50%;
+      }  </style>
+    <image id="profileImage" src="/blog/images/profile1.jpg"  style="width:200px";/>
 
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
