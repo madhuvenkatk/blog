@@ -8,7 +8,7 @@
    
 
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-    <image id="profileImage" src="/blog/images/profile1.jpg"  style="width:100px;text-align: center;";/>
+    <image id="profileImage" src="/blog/images/profile1.jpg"  style="width:100px;margin-left: 50px;";/>
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
