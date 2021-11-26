@@ -1,14 +1,10 @@
 <div id="sidebar">  
 
   <header>
-    <style>
-      img {
-        border-radius: 50%;
-          }  </style>
-   
+    
 
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-    <image id="profileImage" src="/blog/images/profile1.jpg"  style="width:150px;margin-left: 50px;";/>
+    <image id="profileImage" src="/blog/images/profile1.jpg"  style="border-radius : 50%;width:150px;margin-left: 50px;";/>
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
